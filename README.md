@@ -9,8 +9,7 @@ This repository contains code for classifying brain tumors using T1-weighted MRI
 
 ## Requirements
 - Python 3.8+
-- TensorFlow, Keras Tuner, pandas, numpy, matplotlib, seaborn
-- Install: `pip install tensorflow keras-tuner pandas numpy matplotlib seaborn`
+- Install dependencies: `pip install -r requirements.txt
 
 ## Dataset
 - Source: Brain tumor MRI dataset (`/content/drive/MyDrive/Colab_Datasets/brain-tumor-mri-dataset`)
